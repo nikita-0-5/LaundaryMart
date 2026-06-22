@@ -130,9 +130,4 @@ This project helps beginners understand:
 - Image embedding
 
 
-- Make the website responsive.
-- Add JavaScript form validation.
-- Store bookings in a database.
-- Integrate online payment options.
-- Add customer reviews and testimonials.
 
