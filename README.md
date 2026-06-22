@@ -129,11 +129,7 @@ This project helps beginners understand:
 - Forms and input validation
 - Image embedding
 
----
 
-## 🔮 Future Improvements
-
-- Add CSS styling for better UI/UX.
 - Make the website responsive.
 - Add JavaScript form validation.
 - Store bookings in a database.
